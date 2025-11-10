@@ -1,0 +1,10 @@
+Compile all Java files with the MySQL connector
+
+command: javac -cp ".;mysql-connector-j-9.4.0\mysql-connector-j-9.4.0.jar" *.java
+
+
+
+
+Run the program:
+
+commanad : java -cp ".;mysql-connector-j-9.4.0\mysql-connector-j-9.4.0.jar" MainApp
